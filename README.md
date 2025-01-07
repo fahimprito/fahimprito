@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024  <br>🚀 Full-stack developer crafting amazing web experiences  <br>📚 Currently learning: advanced React, Node.js<br>🎯 2025 Goals: Push boundaries in full-stack optimization and deliver seamless web experiences</p>
+<p align="left">✨ Creating bugs since 2019  <br>🚀 Full-stack developer crafting amazing web experiences  <br>📚 Currently learning: advanced React, Node.js<br>🎯 2025 Goals: Push boundaries in full-stack optimization and deliver seamless web experiences</p>
 
 ###
 
