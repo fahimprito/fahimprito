@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Fahim Ahmmed Mojumder</h1>
+<h1 align="left">Hey👋, I'm Fahim</h1>
 
 ###
 
